@@ -11,7 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>catkin_pip</build_depend>
   
-  <run_depend>pathtools</run_depend>
+  <run_depend>python-pathtools</run_depend>
   <run_depend>python-yaml</run_depend>
   <run_depend>python-argh</run_depend>
 
