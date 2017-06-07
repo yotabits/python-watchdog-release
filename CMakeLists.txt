@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8.3)
 project(python-watchdog)
 
 find_package(catkin REQUIRED COMPONENTS
-             pathtools
+             python-pathtools
              catkin_pip
   )
 
